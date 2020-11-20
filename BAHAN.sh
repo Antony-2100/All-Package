@@ -12,9 +12,9 @@ echo "Github: Github.com/KamZ0"
 sleep 6
 echo "×××××Sedang Menginstall××××××"  
 sleep 7
-echo "Mohon Bersabar" 
+echo "Penginstalan Memakan Waktu 2/3Menit" 
 sleep 8
-
+echo "Tunggu Selesai,Jangan Di Close" 
 apt-get update -y
 apt install python -y 
 apt install python2 -y
