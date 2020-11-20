@@ -10,7 +10,7 @@ echo "Team : Eagle Reporting Commision"
 sleep 5
 echo "Github: Github.com/KamZ0" 
 sleep 6
-echo "Penginstalan Sedang Berlangsung" 
+echo "×××××Sedang Menginstall××××××"  
 sleep 7
 echo "Mohon Bersabar" 
 sleep 8
