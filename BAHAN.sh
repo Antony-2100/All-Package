@@ -1,6 +1,21 @@
-echo "Penginstalan Sedang Berlangsung" 
+echo "===================================" 
 sleep 1
+echo "Eagle Reporting Commision Team" 
+sleep 2
+echo "===================================" 
+sleep 3
+echo "Author : Bayu Putra Tama" 
+sleep 4
+echo "Team : Eagle Reporting Commision" 
+sleep 5
+echo "Github: Github.com/KamZ0" 
+sleep 6
+
+
+echo "Penginstalan Sedang Berlangsung" 
+sleep 7
 echo "Mohon Bersabar" 
+sleep 8
 
 apt-get update -y
 apt install python -y 
@@ -35,6 +50,7 @@ apt install openssl -y
 apt install bmon -y
 apt-get upgrade -y
 echo "Lanjut Penginstalan pip" 
+sleep 9
 pip install requests 
 pip install mechanize
 pip install colorama
@@ -43,6 +59,7 @@ pip install telethon
 pip install tqdm
 pip install fake_usergen
 echo "Lanjut Penginstalan pip2" 
+sleep 10
 pip2 install requests 
 pip2 install mechanize
 pip2 install colorama
@@ -51,5 +68,6 @@ pip2 install telethon
 pip2 install tqdm
 pip2 install fake_usergen
 echo "Penginstalan Selesai" 
-sleep 2
+sleep 11
 echo "Happy Hacking" 
+sleep 12
