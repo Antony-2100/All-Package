@@ -47,25 +47,31 @@ apt install wcalc -y
 apt install openssl -y
 apt install bmon -y
 apt-get upgrade -y
-echo "Lanjut Penginstalan pip" 
+echo "°°°°°°°°°°°°°°°°°°°°°°°°" 
 sleep 9
+echo "Lanjut Penginstalan pip" 
+sleep 10
+echo "°°°°°°°°°°°°°°°°°°°°°°°°" 
+sleep 11
 pip install requests 
 pip install mechanize
 pip install colorama
 pip install bs4
 pip install telethon
 pip install tqdm
-pip install fake_usergen
 echo "Lanjut Penginstalan pip2" 
-sleep 10
+sleep 12
 pip2 install requests 
 pip2 install mechanize
 pip2 install colorama
 pip2 install bs4
 pip2 install telethon
 pip2 install tqdm
-pip2 install fake_usergen
+echo "======================" 
+sleep 13
 echo "Penginstalan Selesai" 
-sleep 11
+sleep 14
+echo "======================" 
+sleep 15
 echo "Happy Hacking" 
-sleep 12
+sleep 16
